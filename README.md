@@ -1,4 +1,4 @@
-# Plenitud Colombia Empresas
+# Plenitud Admin
 
 El front de los sitios usados en Plenitud está construido usando Nuxt Vue
 https://nuxtjs.org/
@@ -27,3 +27,5 @@ Tener en cuenta que para el funcionamiento debe estar funcionando el emulador de
 Este construye el sitio estático que puede ser usado en cualquier servidor
 
     > npm run generate
+
+ssh -T -ai ~/.ssh/id_rsa adsmanager@melborp.co
